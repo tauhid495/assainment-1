@@ -1,5 +1,6 @@
 body{
     font-family: 'Roboto', sans-serif;
+    margin: 0px;
 }
 .margin{
     margin-top: 100px;
@@ -12,11 +13,16 @@ body{
     margin-right: 80px;
     background-color: ;
 }
-.h1{
+.h1-modify{
     font-size: 50px;
     font-weight: 700;
 }
-.h2{
+.h2-modify{
+    font-size: 40px;
+    font-weight: 800;
+}
+
+.h3-modify{
     font-size: 25px;
     font-weight: 600;
 }
@@ -53,4 +59,15 @@ body{
     border-radius: 20px;
     width: 30%;
     margin: 10px;
+}
+#foot-mod{
+    background-color: rgb(29, 28, 28);
+    text-align: center;
+    color: rgb(216, 215, 215);
+    height: 150px;
+}
+#foot-p{
+    font-family: Comic sans ms;
+    font-size: 25px;
+    font-weight: 600;
 }
