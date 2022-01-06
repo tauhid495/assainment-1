@@ -3,7 +3,7 @@ body{
     margin: 0px;
 }
 .margin{
-    margin-top: 100px;
+    margin-top: 70px;
     margin-left: 100px;
     margin-right: 100px;
 }
@@ -64,9 +64,31 @@ body{
     text-align: center;
     color: rgb(216, 215, 215);
     height: 150px;
+    margin-top: 100px;
 }
 #foot-p{
     font-family: Comic sans ms;
     font-size: 25px;
     font-weight: 600;
+}
+.sec1-bg{
+    background-image: url(./images/shape-2.png);
+    background-repeat: no-repeat;
+    background-position-x: 820px;
+    background-position-y: 58px;
+    background-size: 350px;
+}
+.sec3-bg{
+    background-image: url(./images/shape-1.png);
+    background-repeat: no-repeat;
+    background-position: left;
+    background-size: 350px;
+    background-position-x:100px;
+    background-position-y: 90px;
+}
+.sec5-bg{
+    background-image: url(./images/shape-6.png);
+    background-repeat: no-repeat;
+    background-position-y: 58px;
+    background-size: 350px;
 }
